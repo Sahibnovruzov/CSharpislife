@@ -20,10 +20,6 @@ namespace MyApp
 
 
         }
-
-
-
-
     }
 }
             
@@ -87,21 +83,15 @@ namespace MyApp
             {
                 Console.WriteLine("excellent");
             }
-         
-
-
-
 
 
             Console.ReadLine();
         }
         
-        
-        
-        public enum MyEnum
+       public enum MyEnum
         {
             BadStudent=5,
             GoodStudent=7,
             ExcellentStudent=9,
             */
-        
+}
