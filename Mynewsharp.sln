@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mynewsharp", "Mynewsharp\Mynewsharp.csproj", "{04C1807A-38D2-499F-8E2E-A74196253484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04C1807A-38D2-499F-8E2E-A74196253484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C1807A-38D2-499F-8E2E-A74196253484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C1807A-38D2-499F-8E2E-A74196253484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C1807A-38D2-499F-8E2E-A74196253484}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90C1A2EF-2F2B-4F0F-9C77-8F0D12E01E07}
+	EndGlobalSection
+EndGlobal
